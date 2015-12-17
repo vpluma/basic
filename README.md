@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Android BasicGestureDetect Sample
 ===================================
@@ -74,3 +75,7 @@ the License.
 =======
 # basic
 >>>>>>> 21c0a5b2214efd78b82e10cd416c00fbb9fdfe9f
+=======
+# basic
+Norwalk High School - Android App Project
+>>>>>>> 77ea6619a944ac2100abf10e3c8b123502fb31dd
